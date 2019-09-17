@@ -21,7 +21,11 @@ public class Is7Primenumber {
 		{
 			System.out.println("7 is a prime number");
 		}
+
           // american guy 4th push
+
+         
+
 	}
 
 }
