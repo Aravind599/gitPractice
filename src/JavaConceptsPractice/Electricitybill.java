@@ -20,6 +20,8 @@ public class Electricitybill {
 		String Category;
 		
 		Scanner sc = new Scanner(System.in);
+		//no changes made
+		//no changes made
 
 		System.out.println("Enter meter no ");
 		
